@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.23.0",
+    "winston": "^3.13.1"
+  }
+}
